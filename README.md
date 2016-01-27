@@ -11,3 +11,7 @@ Convert debug trace file to html on Android device
 
 可以参照一下Android Studio 的NDK开发，gradle用的都是最新的
 
+##screenshot
+![](img/device-2016-01-27-190400.png)
+![](img/device-2016-01-27-190507.png)
+
